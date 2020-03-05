@@ -1,4 +1,4 @@
-# vue-mouse-parallax
+# vue-2m-parallax
 
 > A Vue.js project
 
