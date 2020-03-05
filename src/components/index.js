@@ -12,6 +12,6 @@ const Parallax = {
   },
 };
 
-export { MouseParallax };
-
 export default Parallax;
+
+export { MouseParallax };

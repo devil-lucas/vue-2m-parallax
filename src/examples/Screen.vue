@@ -19,8 +19,8 @@
 </template>
 
 <script>
-import MouseParallax from '../components/MouseParallax';
 import parallax from '../assets/image/parallax.jpg';
+import { MouseParallax } from '../components/index';
 
 export default {
   name: 'Screen',
