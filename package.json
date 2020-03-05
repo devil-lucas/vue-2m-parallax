@@ -1,7 +1,7 @@
 {
   "name": "vue-2m-parallax",
   "description": "适用于vue的鼠标移动视差效果组件",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "cryi1116",
   "license": "MIT",
   "private": false,
