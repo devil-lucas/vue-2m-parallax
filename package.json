@@ -9,7 +9,7 @@
   "keywords": ["vue", "javascript", "parallax", "mouse-parallax", "vue-mouse-parallax"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/cryi1116/vue-mouse-parallax.git"
+    "url": "https://github.com/cryi1116/vue-2m-parallax.git"
   },
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
